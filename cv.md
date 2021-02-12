@@ -16,6 +16,7 @@ I first got acquainted with web development in 2010. But he began to study techn
 * HTML/CSS/JS
 * BEM
 * GULP/WEBPACK
+* GIT
 * Photoshop/Figma/Avocode
 
 ## Code sample
