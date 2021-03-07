@@ -34,11 +34,7 @@ figure {
 
 img {
   width: 150px;
-  height: 150px;
   margin-top: 20px;
-  border-radius: 100%;
-  object-fit: cover;
-  object-position: center;
 }
 
 li {
